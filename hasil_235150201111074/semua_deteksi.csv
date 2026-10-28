@@ -1,0 +1,74 @@
+gambar,threshold,kelas,conf,x1,y1,x2,y2
+gambar1.jpg,0.25,person,0.894,385,68,499,348
+gambar1.jpg,0.25,bowl,0.747,58,289,136,329
+gambar1.jpg,0.25,bowl,0.745,155,169,182,185
+gambar1.jpg,0.25,bowl,0.725,31,343,100,386
+gambar1.jpg,0.25,oven,0.563,0,183,195,298
+gambar1.jpg,0.25,bowl,0.479,0,303,86,370
+gambar1.jpg,0.25,potted plant,0.341,0,0,62,150
+gambar1.jpg,0.25,person,0.278,0,260,61,309
+gambar1.jpg,0.25,cup,0.276,152,269,172,302
+gambar2.jpg,0.25,cat,0.868,345,26,640,367
+gambar2.jpg,0.25,remote,0.832,40,74,176,118
+gambar2.jpg,0.25,cat,0.831,12,56,319,467
+gambar2.jpg,0.25,remote,0.489,334,77,371,188
+gambar2.jpg,0.25,couch,0.453,1,1,638,471
+gambar3.jpg,0.25,car,0.928,1,369,557,791
+gambar3.jpg,0.25,person,0.856,577,185,863,841
+gambar3.jpg,0.25,person,0.847,93,281,225,469
+gambar3.jpg,0.25,car,0.792,808,261,938,435
+gambar3.jpg,0.25,person,0.772,340,244,418,442
+gambar3.jpg,0.25,car,0.724,411,266,576,425
+gambar3.jpg,0.25,person,0.713,1107,125,1280,841
+gambar3.jpg,0.25,person,0.71,262,263,328,459
+gambar3.jpg,0.25,car,0.663,953,241,1096,413
+gambar3.jpg,0.25,handbag,0.63,928,388,1121,686
+gambar3.jpg,0.25,person,0.562,1014,209,1166,838
+gambar3.jpg,0.25,car,0.418,589,257,686,368
+gambar3.jpg,0.25,car,0.397,878,267,989,414
+gambar3.jpg,0.25,backpack,0.343,608,382,852,762
+gambar3.jpg,0.25,traffic light,0.329,166,155,197,213
+gambar3.jpg,0.25,traffic light,0.303,479,172,499,193
+gambar3.jpg,0.25,backpack,0.3,1114,119,1279,615
+gambar3.jpg,0.25,person,0.267,192,265,253,463
+gambar3.jpg,0.25,person,0.265,1022,206,1166,570
+gambar3.jpg,0.25,traffic light,0.261,710,151,737,177
+gambar4.jpg,0.25,laptop,0.945,176,291,902,796
+gambar4.jpg,0.25,cup,0.787,70,423,183,512
+gambar4.jpg,0.25,potted plant,0.61,316,328,393,458
+gambar4.jpg,0.25,tv,0.496,393,0,802,374
+gambar4.jpg,0.25,keyboard,0.349,337,606,828,702
+gambar4.jpg,0.25,keyboard,0.347,257,496,407,576
+gambar4.jpg,0.25,chair,0.336,38,376,114,459
+gambar5.jpg,0.25,person,0.913,206,116,267,212
+gambar5.jpg,0.25,person,0.91,346,73,404,231
+gambar5.jpg,0.25,person,0.907,242,153,324,240
+gambar5.jpg,0.25,person,0.889,236,281,335,374
+gambar5.jpg,0.25,person,0.692,39,327,85,375
+gambar5.jpg,0.25,person,0.457,16,349,54,375
+gambar5.jpg,0.25,sports ball,0.31,206,196,220,208
+gambar1.jpg,0.6,person,0.894,385,68,499,348
+gambar1.jpg,0.6,bowl,0.747,58,289,136,329
+gambar1.jpg,0.6,bowl,0.745,155,169,182,185
+gambar1.jpg,0.6,bowl,0.725,31,343,100,386
+gambar2.jpg,0.6,cat,0.868,345,26,640,367
+gambar2.jpg,0.6,remote,0.832,40,74,176,118
+gambar2.jpg,0.6,cat,0.831,12,56,319,467
+gambar3.jpg,0.6,car,0.928,1,369,557,791
+gambar3.jpg,0.6,person,0.856,577,185,863,841
+gambar3.jpg,0.6,person,0.847,93,281,225,469
+gambar3.jpg,0.6,car,0.792,808,261,938,435
+gambar3.jpg,0.6,person,0.772,340,244,418,442
+gambar3.jpg,0.6,car,0.724,411,266,576,425
+gambar3.jpg,0.6,person,0.713,1107,125,1280,841
+gambar3.jpg,0.6,person,0.71,262,263,328,459
+gambar3.jpg,0.6,car,0.663,953,241,1096,413
+gambar3.jpg,0.6,handbag,0.63,928,388,1121,686
+gambar4.jpg,0.6,laptop,0.945,176,291,902,796
+gambar4.jpg,0.6,cup,0.787,70,423,183,512
+gambar4.jpg,0.6,potted plant,0.61,316,328,393,458
+gambar5.jpg,0.6,person,0.913,206,116,267,212
+gambar5.jpg,0.6,person,0.91,346,73,404,231
+gambar5.jpg,0.6,person,0.907,242,153,324,240
+gambar5.jpg,0.6,person,0.889,236,281,335,374
+gambar5.jpg,0.6,person,0.692,39,327,85,375
